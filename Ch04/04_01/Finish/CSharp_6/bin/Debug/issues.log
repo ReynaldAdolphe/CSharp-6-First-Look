@@ -1,0 +1,9 @@
+Problem description --> System.Exception: Something went wrong
+   at CSharp_6.Program.<Test_AsyncInCatchFianlly>d__1.MoveNext() in C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\Program.cs:line 44
+Logging complete. 
+File Problem description --> System.IO.FileNotFoundException: Something went wrong
+   at CSharp_6.Program.<Test_ExceptionFilters>d__3.MoveNext() in C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\Program.cs:line 73
+Logging complete. 
+File Problem description --> System.IO.FileNotFoundException: Something went wrong
+   at CSharp_6.Program.<Test_ExceptionFilters>d__3.MoveNext() in C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\Program.cs:line 73
+Logging complete. 

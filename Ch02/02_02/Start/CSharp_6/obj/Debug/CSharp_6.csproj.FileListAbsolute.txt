@@ -1,0 +1,21 @@
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.exe.config
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.exe
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.pdb
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.exe
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.pdb
+E:\Dropbox\Lynda\C# 6 First Look Exercise Files\1. The Enhanced IDE\Before\CSharp_6\bin\Debug\CSharp_6.exe.config
+E:\Dropbox\Lynda\C# 6 First Look Exercise Files\1. The Enhanced IDE\Before\CSharp_6\obj\Debug\CSharp_6.exe
+E:\Dropbox\Lynda\C# 6 First Look Exercise Files\1. The Enhanced IDE\Before\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\before\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\before\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2015\Projects\before\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Start\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Start\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Start\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_03\Finish\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_02\Start\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_02\Start\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch02\02_02\Start\CSharp_6\obj\Debug\CSharp_6.pdb

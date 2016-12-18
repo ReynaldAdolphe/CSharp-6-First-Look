@@ -1,0 +1,8 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\CSharp_6\bin\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\CSharp_6\bin\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\CSharp_6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\Start\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache

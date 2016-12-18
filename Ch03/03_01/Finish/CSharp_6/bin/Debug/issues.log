@@ -1,0 +1,3 @@
+Problem description--> System.Exception: Something went wrong
+   at CSharp_6.Program.<Test_AsyncInCatchFinally>d__1.MoveNext() in C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_01\Finish\CSharp_6\Program.cs:line 43
+Logging complete. 

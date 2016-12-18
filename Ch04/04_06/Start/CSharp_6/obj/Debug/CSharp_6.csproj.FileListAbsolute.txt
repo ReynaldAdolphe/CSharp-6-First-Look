@@ -1,0 +1,95 @@
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.exe.config
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.exe
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.pdb
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.exe
+E:\Dropbox\My Documents\Visual Studio 2015\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.pdb
+E:\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.exe.config
+E:\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.exe
+E:\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.pdb
+E:\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.exe
+E:\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.pdb
+E:\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+E:\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.exe
+C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\bin\Debug\CSharp_6.pdb
+C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\reynald\Dropbox\My Documents\Visual Studio 2015\Projects\CS6_FirstLook\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\1. Auto-property initializers\After\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\1. Auto-property initializers\After\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\1. Auto-property initializers\After\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\Before\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\Before\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\Before\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\Before\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\Before\CSharp_6\bin\Debug\CSharp_6.exe
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\Before\CSharp_6\bin\Debug\CSharp_6.pdb
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\Before\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\Before\CSharp_6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\After\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\After\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\2. Getter-only auto-properties\After\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\3. Expression-bodied function members\Before\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\3. Expression-bodied function members\Before\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\3. Expression-bodied function members\Before\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\3. Expression-bodied function members\Before\CSharp_6\bin\Debug\CSharp_6.exe
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\3. Expression-bodied function members\Before\CSharp_6\bin\Debug\CSharp_6.pdb
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\3. Expression-bodied function members\Before\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\3. Expression-bodied function members\Before\CSharp_6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\reynald\Dropbox\Lynda\C# 6 First Look Exercise Files\4. New Language Features Part III - Member Declaration & Initializers\3. Expression-bodied function members\Before\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Start\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Start\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Start\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\CSharp_6\bin\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\CSharp_6\bin\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\CSharp_6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Start\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Start\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Start\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Start\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Start\CSharp_6\bin\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Start\CSharp_6\bin\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Start\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Start\CSharp_6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Finish\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Finish\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Finish\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Finish\CSharp_6\bin\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Finish\CSharp_6\bin\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Finish\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Finish\CSharp_6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\Finish\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Start\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Start\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Start\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Start\CSharp_6\bin\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Start\CSharp_6\bin\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Start\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Start\CSharp_6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Start\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Finish\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Finish\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Finish\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Finish\CSharp_6\bin\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Finish\CSharp_6\bin\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Finish\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Finish\CSharp_6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_05\Finish\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_06\Start\CSharp_6\bin\Debug\CSharp_6.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_06\Start\CSharp_6\obj\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_06\Start\CSharp_6\obj\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_06\Start\CSharp_6\obj\Debug\CSharp_6.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_06\Start\CSharp_6\bin\Debug\CSharp_6.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_06\Start\CSharp_6\bin\Debug\CSharp_6.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_06\Start\CSharp_6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_06\Start\CSharp_6\bin\Debug\Newtonsoft.Json.xml
